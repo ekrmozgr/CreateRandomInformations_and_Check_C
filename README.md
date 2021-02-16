@@ -8,4 +8,4 @@ Oluşturulan kişilerin TC no, ad-soyad, yaş, telefon numarası ve telefon imei
 53591446726 Jonah Allison 71 05352593377 (357283079865672)
 
 Ayrıca program Kisiler.txt'yi okuyarak imei ve tc kimlik numaralarının kaçının geçerli veya geçersiz olduğunu kontrol eder.
-Bu program C dilinde yazılmış diğer projelerin arasında Java dilinde yazılmış hali de mevcuttur.
+Bu program C dilinde yazılmış olup diğer projelerin arasında Java dilinde yazılmış hali de mevcuttur.
