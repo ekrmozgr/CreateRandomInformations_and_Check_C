@@ -1,15 +1,15 @@
-# CreateRandomInformations_and_Check_C
+# random-info-generator-c
 
-Program, yazılan kütüphane sayesinde istenildiği kadar rastgele kişi bilgileri üretmektedir ve bunları Kisiler.txt adlı dosyada saklar. 
+The program generates as many random person information as desired thanks to the written library and stores them in a file named Kisiler.txt
 
-Oluşturulan kişilerin TC no, ad-soyad, yaş, telefon numarası ve telefon imei numaraları mevcuttur.
+The people created have Turkish ID No, name-surname, age, phone number and phone imei numbers.
 
-Örnek format aşağıdaki gibidir.
+The sample format is as follows
 
 30495419162 Simon Allen 99 05355962370 (339028046233238)
 
 53591446726 Jonah Allison 71 05352593377 (357283079865672)
 
-Ayrıca program Kisiler.txt'yi okuyarak imei ve tc kimlik numaralarının kaçının geçerli veya geçersiz olduğunu kontrol eder.
+In addition,if you wish the program can read external Kisiler.txt and checks how many of the imei and ID numbers are valid or invalid.
 
-Bu program C dilinde yazılmış olup diğer projelerin arasında Java dilinde yazılmış hali de mevcuttur.
+This program has been written in C language and also java version of it is available among other projects.
