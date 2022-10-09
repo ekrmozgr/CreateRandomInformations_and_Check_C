@@ -12,7 +12,7 @@ The sample format is as follows
 
 In addition,if you wish the program can read external Kisiler.txt and checks how many of the imei and ID numbers are valid or invalid.
 
-This program has been written in C language and also Java version of it is available among other projects.          
+This program has been written in C language and also Java version of it is available among other projects          
 
 
 
